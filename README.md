@@ -16,7 +16,7 @@
 
 ### A little bit more about me:
 
-> :mortar_board: I’m currently working on: [Paneka - The Discord Football bot](https://github.com/maheshbharadwaj/paneka)<br>
+> :mortar_board: I’m currently working on: [Paneka - The Discord Football bot](https://github.com/MaheshBharadwaj/Paneka-discord-bot)<br>
 > :books: I’m currently learning: **Natural Language Prcoessing**<br>
 > :computer: I’m looking to collaborate on: **Any python / c++ based projects**<br>
 
