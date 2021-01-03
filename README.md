@@ -30,7 +30,7 @@
 </p>
 <details>
   <summary>Click here for <b>Github Stats</b>  :zap:</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshbharadwaj&show_icons=true&theme=merko&locale=en" alt="maheshbharadwaj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshbharadwaj&show_icons=true&theme=cobalt&locale=en" alt="maheshbharadwaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshbharadwaj&" alt="maheshbharadwaj" /></p>
 </details>
