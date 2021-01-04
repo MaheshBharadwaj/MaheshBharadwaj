@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/k_mahesh23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="k_mahesh23" height="30" width="40" /></a>
-<a href="https://instagram.com/_mahesh23_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mahesh23_" height="30" width="40" /></a>
+<a href="https://twitter.com/k_mahesh23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="k_mahesh23" height="30" width="40" style="filter: invert(1);-webkit-filter: invert(100%);"/></a>
+<a href="https://instagram.com/_mahesh23_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mahesh23_" height="30" width="40" style="filter: invert(1);-webkit-filter: invert(100%);"/></a>
 </p>
 <details>
   <summary>Click here for <b>Github Stats</b>  :zap:</summary>
@@ -34,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshbharadwaj&" alt="maheshbharadwaj" /></p>
 </details>
-
