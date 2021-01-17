@@ -16,8 +16,7 @@
 <h2> A little bit more about me</h2>
 
 :one: I'm in my junior year pursuing my bacherlors in **Computer Science and Engineering** at [SSN College of Engineering](https://www.ssn.edu.in) chennai. I am an avid programmer and I am interested in making meaningful contributions to the Open Source community so please free to mail me incase you have any projects :smiley:.<br>
-:two: I'm a part-time Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/) where I'm researching in Machine Learning and Deep Learning Architectures.<br>
-:three: Check out my [website](https://maheshbharadwaj.github.io) for more details and up-to-date CV
+:two: Check out my [website](https://maheshbharadwaj.github.io) for more details and up-to-date CV
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
