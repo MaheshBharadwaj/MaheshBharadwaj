@@ -15,7 +15,7 @@
 
 <h2> A little bit more about me</h2>
 
-:one: I'm currently working at [Workato](https://workato.com) as a Software Development Engineer. I completed my bacherlors degree in **Computer Science and Engineering** at [SSN College of Engineering](https://www.ssn.edu.in) chennai. I am an avid programmer and I am interested in making meaningful contributions to the Open Source community so please free to mail me incase you have any projects :smiley:.<br>
+:one: I'm currently pursuing my masters in CS at UC San Diego. Previously at Workato. I completed my bacherlors degree in **Computer Science and Engineering** at Anna University, chennai. I am an avid programmer and I am interested in making meaningful contributions to the Open Source community so please free to mail me incase you have any projects :smiley:.<br>
 :two: Check out my [website](https://maheshbharadwaj.github.io) for up-to-date CV and more information about me :)
 <hr>
 
